@@ -8,8 +8,6 @@ This is a basic React application showcasing integration with the Solana blockch
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -51,6 +49,4 @@ This project relies on the following technologies and libraries:
 4. *Get Wallet Balance:*
    Click the "Get Wallet Balance" button to check the balance of the currently connected wallet or the newly created account.
 
-## Contributing
 
-Contributions are appreciated! If you encounter any issues or have ideas for improving this application, please feel free to open a pull request or report an issue. Your contributions will help enhance the integration with Solana using Phantom Wallet.
